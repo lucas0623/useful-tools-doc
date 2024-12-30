@@ -21,4 +21,4 @@ Created: 2024-10-05
 - The logic is similar to [[Add Bottom Borders in Same Group]] and described below:
 	- First, the macro will get the 'group label' data from user's selected rows (before clicking the button) and the column specified in the userform.
 	- then, the macro will identify the 'value' data, and find out the range of data in the same group, and bold the row with the maximum value.
-	- 
+![[Pasted image 20241230224403.png]]
