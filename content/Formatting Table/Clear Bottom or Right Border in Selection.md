@@ -10,8 +10,8 @@ Created: 2024-10-05
 - No simple way to clear only horizontal/ vertical border in excel
 
 ## 3	Instruction
-1. Select the cells![[Pasted image 20241012155944.png]]
-2. Click the button ![[Pasted image 20241012160057.png|200]]. All bottom border in the selection will be cleared.![[Pasted image 20241012160006.png]]
+1. Select the cells![[../../Z_System/Attachment/Pasted image 20241012155944.png]]
+2. Click the button ![[../../Z_System/Attachment/Pasted image 20241012160057.png|200]]. All bottom border in the selection will be cleared.![[../../Z_System/Attachment/Pasted image 20241012160006.png]]
 3. The process is similar to clear the right border of the selected cells.
 
 ## 4	Remarks on Macro's Logic

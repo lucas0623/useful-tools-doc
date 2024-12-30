@@ -20,7 +20,7 @@ excalidraw-plugin: parsed
 11.9 ^6InhTir8
 
 ## Embedded Files
-1b227e246674e5958fc475bc9fd62bced17de192: [[content/Z_System/Attachment/Pasted image 20240802140757.png]]
+1b227e246674e5958fc475bc9fd62bced17de192: [[Pasted image 20240802140757.png]]
 
 %%
 ## Drawing

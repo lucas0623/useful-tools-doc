@@ -7,15 +7,15 @@ Created: 2024-10-05
 ### 2.1	Usage
 - This function is used to **bold** rows with maximum value in the same group. See example in this page. The way of using it is similar to [[Add Bottom Borders in Same Group]].
 - This is a sample data set. This function can help to bold the maximum utilization for each group.
-![[Pasted image 20241005110908.png]]
+![[../../Z_System/Attachment/Pasted image 20241005110908.png]]
 ### 2.2	What Existing Problem is Solved?
 - Time consuming process when formatting table for better presentation.
 
 ## 3	Instruction
-1. **Select the rows of data** that you would need to process with. (any columns are ok, only rows information is used for the macro.) ![[Pasted image 20241005111131.png]]
-2. **Click 'Bold Maximum Rows in Same Group'. Select the Column that is used to identify group data.** Select any cell in Column A in this example, as the group data is presented in column A. Then Click OK. ![[Pasted image 20241005111543.png]]
-3. Another userform will pop up. Select the Column that contains the value of data. Select any cell in Column C in this example, as the utilization data is presented in column C. Then Click OK.![[Pasted image 20241005111623.png]]
-4. The rows of maximum utilization of each group are bolded. ![[Pasted image 20241005115102.png]]
+1. **Select the rows of data** that you would need to process with. (any columns are ok, only rows information is used for the macro.) ![[../../Z_System/Attachment/Pasted image 20241005111131.png]]
+2. **Click 'Bold Maximum Rows in Same Group'. Select the Column that is used to identify group data.** Select any cell in Column A in this example, as the group data is presented in column A. Then Click OK. ![[../../Z_System/Attachment/Pasted image 20241005111543.png]]
+3. Another userform will pop up. Select the Column that contains the value of data. Select any cell in Column C in this example, as the utilization data is presented in column C. Then Click OK.![[../../Z_System/Attachment/Pasted image 20241005111623.png]]
+4. The rows of maximum utilization of each group are bolded. ![[../../Z_System/Attachment/Pasted image 20241005115102.png]]
 
 ## 4	Remarks on Macro's Logic
 - The logic is similar to [[Add Bottom Borders in Same Group]] and described below:
