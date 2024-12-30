@@ -1,3 +1,3 @@
-- Go to File>Option>Add-ins>Go...![[Pasted image 20241005102138.png]]
-- Browse>Select the 'Useful Tools.xlam' file. You may choose to put the add-in file to the default excel add-in folder.![[Pasted image 20241005102257.png|400]]
+- Go to File>Option>Add-ins>Go...![[content/Z_System/Attachment/Pasted image 20241005102138.png]]
+- Browse>Select the 'Useful Tools.xlam' file. You may choose to put the add-in file to the default excel add-in folder.![[content/Z_System/Attachment/Pasted image 20241005102257.png|400]]
 - Once successful, the 'Useful Tools' tab will appear in your ribbon.
