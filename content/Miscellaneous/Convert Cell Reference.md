@@ -10,8 +10,8 @@ Created: 2024-10-05
 - Sometimes when copying calculation that contains absolute reference from one location, the calculation might not be referenced to the desired location. We may need to change the reference format before copying the cell.
 
 ## 3	Instruction
-1. Click the button . A userform will pop up. Select the range of cells that you want to change the reference type.![[content/Z_System/Attachment/Pasted image 20241012161037.png]]
-2. Another userform will pop up. Follow the instruction as shown.![[content/Z_System/Attachment/Pasted image 20241012161131.png]]
+1. Click the button . A userform will pop up. Select the range of cells that you want to change the reference type.![[Pasted image 20241012161037.png]]
+2. Another userform will pop up. Follow the instruction as shown.![[Pasted image 20241012161131.png]]
 3. The reference type will be changed as per user's specification
 
 ## 4	Remarks on Macro's Logic
